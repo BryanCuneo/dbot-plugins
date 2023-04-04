@@ -1,0 +1,11 @@
+[[reminders]]
+message = "It's 5PM UTC"
+recur_on = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]
+time = "17:00:00"
+channel = 1234
+
+[[reminders]]
+message = "It is Wednesday, my dudes"
+recur_on = ["wednesday"]
+time = "12:00:00"
+channel = 1234
